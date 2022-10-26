@@ -16,3 +16,10 @@ A chatbot is a computer program that uses artificial intelligence (AI) and natur
 The Twitter Chatbot is utilized to converse with users. This AI-based tool can assist a large number of individuals by responding to their inquiries about pertinent matters. NLP is applied with the Twitter Chatbot Data to make it machine-understandable using particular algorithms. To help machines interpret the tweets' language or sentences, more info is supplied to each one. 
 
 ## Situation
+Analyze the given data set from Twitter based on a chatbot with several different companies.
+## Task
+Implement Data Exploration, Data Visualization, and Data Cleaning methods to figure out which company is the most interactive with their customers.
+## Action
+Layed out a blueprint on how I would be able to connect and analyze the top 10 companies. Programmed the graphs and charts to display the information. 
+## Result
+Discovered Amazon has been the most interactive with their customers. Followed by Apple, then Uber. Spotify was very close with Uber. Delta is over Tesco on Monday, Tuesday, Thursday, Friday, Saturday and Sunday. Tesco is over Delta only on Wednesday. American Air is over T-Mobile on Monday, Thursday, Saturday and Sunday. T-Mobile is over American Air on Tuesday, Wednesday and Friday. Comcast is over British Airways on Monday, Tuesday, Wednesday, Friday, Saturday and Sunday. British Airways is over Comcast only on Thursday. Overall, Amazon has the highest interactive rate with the users.
