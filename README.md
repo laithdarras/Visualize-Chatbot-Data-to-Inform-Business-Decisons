@@ -1,4 +1,4 @@
-# Visualize-Chatbot-Data-to-Inform-Business-Decisons
+# Visualize-Chatbot-Data-to-Inform-Business-Decisions
 The Customer Support on Twitter dataset, which includes tweets, replies, and author IDs for both corporations and enquiring individuals, was examined. Chatbots are employed to assist with customer service, and this dataset will provide details on the languages utilized, traffic statistics on a yearly and monthly basis, and top users, to mention just some. There are 7 columns and 2,811,774 rows in this dataset.
 
 ## Columns Identification
@@ -15,3 +15,4 @@ A chatbot is a computer program that uses artificial intelligence (AI) and natur
 
 The Twitter Chatbot is utilized to converse with users. This AI-based tool can assist a large number of individuals by responding to their inquiries about pertinent matters. NLP is applied with the Twitter Chatbot Data to make it machine-understandable using particular algorithms. To help machines interpret the tweets' language or sentences, more info is supplied to each one. 
 
+## Situation
